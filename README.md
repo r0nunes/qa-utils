@@ -1,2 +1,3 @@
-# utils
-Utilidades para o dia a dia 
+# Utils
+
+Comandos, tutoriais e dicas para atividades rotineiras. 
